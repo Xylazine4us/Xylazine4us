@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything that make me be a man
 - 🌱 I’m currently learning of life
 - 💞️ I’m looking to collaborate on nothing 
-- 📫 How to reach me (just send an email to neferpitouchan321@gmail.com i will be there)
+- 📫 How to reach me (just send an email to neferpitouchan321@gmail.com i will be there
 
 <!---
 Xylazine4us/Xylazine4us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
